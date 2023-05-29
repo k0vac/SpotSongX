@@ -4,6 +4,8 @@
  
 SongSpotX is a program aimed at streamers, that captures the main window of the application running on your computer to figure out the song that is being played, and this is written to a separate file to be read by other programs, mainly streaming software (OBS).
 
+![SongSpotX App Window](image/appss.png)
+
 ## Features
 - Auto-Detect: The application can automatically detect Spotify and retrieve the required information.
 - Configurable: You choose where the song names are written and how often they are checked.
