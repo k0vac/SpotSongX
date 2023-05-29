@@ -1,4 +1,4 @@
-![SongSpotX]("image/songspotxlogo.png")
+![SongSpotX](image/songspotxlogo.png)
 # SpotSongX
  **A lightweight Windows Utility for pulling song names from the Spotify app.**
  
@@ -16,4 +16,4 @@ SongSpotX is a program aimed at streamers, that captures the main window of the 
 Contributions to the SpotSongX project are always welcome. If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request on the GitHub repository.
 
 ## License
-This project is licensed under the Mozilla Public License.
+This project is licensed under the [Mozilla Public License](https://github.com/k0vac/SpotSongX/blob/main/LICENSE).
