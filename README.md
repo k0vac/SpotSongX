@@ -2,7 +2,7 @@
 # SpotSongX
  **A lightweight Windows Utility for pulling song names from the Spotify app.**
  
-SongSpotX is a program aimed at streamers, that captures the main window of the application running on your computer to figure out the song that is being played, and this is written to a separate file to be read by other programs, mainly streaming software (OBS).
+SongSpotX is a program aimed for streamers, that captures the main window of the application running on your computer to figure out the song that is being played, and this is written to a separate file to be read by other programs, mainly streaming software (OBS).
 
 ![SongSpotX App Window](image/appss.png)
 
